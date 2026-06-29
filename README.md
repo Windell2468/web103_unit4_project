@@ -56,9 +56,9 @@ GIF created with ...  GIF tool here
 
 ## Notes
 
-There was one challenge I encountered: connecting the React frontend to the Express API and PostgreSQL databases. I also worked through the issues with CORS and the database table structure. and making sure the create, read, update, and delete routes are working correctly. 
+One challenge I encountered was connecting the React frontend to the Express API and PostgreSQL databases. I also worked through the issues with CORS and the database table structure. and making sure the create, read, update, and delete routes are working correctly. 
 
-There is another challenge I have encountered when adding dynamic features: the live preview, automatic price calculation, and impossible combination validation. 
+There are other challenges I have encountered when adding dynamic features: the live preview, automatic price calculation, and impossible-combination validation. 
 
 ## License
 
